@@ -12,6 +12,6 @@ int main()
 		printf("invalid");
 	}
 	else
-	printf("odd");
+	printf("Odd");
 	return 0;
 }
